@@ -1,10 +1,6 @@
 myenv/
 venv/
 .env/
-chroma_db/
-chroma/
-*.chromadb
-*.chroma
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
