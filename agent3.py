@@ -74,7 +74,7 @@ def consultar_clima(ciudad: str) -> str:
     """Consulta el clima actual usando la API 2.5 gratuita de OpenWeatherMap"""
     try:
         # API key de OpenWeatherMap
-        api_key = "6acd66c9486dec5b473367fb2fb34143"
+        api_key = "Your_Api"
         
         # Limpiar el nombre de la ciudad
         ciudad = ciudad.strip()
